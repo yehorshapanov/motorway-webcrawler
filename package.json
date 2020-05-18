@@ -1,0 +1,11 @@
+{
+  "name": "motorway-webcrawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yehorshapanov/motorway-webcrawler.git",
+  "author": "Yehor Shapanov <yehor.shapanov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
